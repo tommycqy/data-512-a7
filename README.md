@@ -38,11 +38,14 @@ There are three initial data files downloaded in csv format:<br>
     - 'Face_Masks_Required_in_Public' - whether face mask is mandated
 
 - The unemployment rate by month dataset in Maricopa County & Cook County from the Federal Reserve Bank of St. Louis. (https://fred.stlouisfed.org/series/AZMARI3URN) (https://fred.stlouisfed.org/series/ILCOOK1URN)
+    - MaricopaFED.csv
+    - CookFED.csv
     - Licesnse: Public Use (User Agreement: https://www.bls.gov/developers/termsOfService.htm) (This data is originally from BLS)
     - One column in this data are used in this project
       - 'Unemployment' - the monthly unemployment rate
 
 - The unemployment rate by month dataset in Arizona State from the Bureau of Labor Statistics. (https://www.bls.gov/eag/eag.az.htm)
+    - ArizonaBLS.csv 
     - One column in this data are used in this project
     - Licesnse: Public Use (User Agreement: https://www.bls.gov/developers/termsOfService.htm) (This data is originally from BLS)
       - 'unemployment_rate' - the monthly unemployment rate
